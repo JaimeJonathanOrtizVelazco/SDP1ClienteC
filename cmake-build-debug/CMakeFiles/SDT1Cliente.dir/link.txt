@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/SDT1Cliente.dir/main.c.o CMakeFiles/SDT1Cliente.dir/Socket.c.o CMakeFiles/SDT1Cliente.dir/Socker_Cliente.c.o  -o SDT1Cliente 
